@@ -67,4 +67,14 @@ public class App {
         // Return successful or not
         return (rows == 1);
     }
+
+	public boolean deleteUser(String getemail) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean updateUser(User newUser) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }

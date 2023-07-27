@@ -60,4 +60,9 @@ public class User {
         return "User [email=" + email + ", username=" + username + ", password=" + password + ", dob=" + dob
                 + ", phone=" + phone + ", firstname=" + firstname + ", lastname=" + lastname + "]";
     }
+
+	public void setphone(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 }
